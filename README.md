@@ -14,7 +14,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 | Project Title                                                                 | Lab / Repository | Tools & Technologies Used |
 |-------------------------------------------------------------------------------|------------------|---------------------------|
 | SIEM Implementation & Advanced Log Analysis                                  | <a href="https://github.com">Detection Lab</a> | Splunk, Windows Event Logs, Sysmon |
-| Indicators of Compromise (IoC) Detection & Threat Intelligence Analysis      | <a href="https://github.com/Michaelsalaja/Detecion-Lab/tree/main">Detection Lab</a> | VirusTotal, AbuseIPDB, Threat Feeds, Cisco Talos Intelligence |
+| Indicators of Compromise (IoC) Detection & Threat Intelligence Analysis      | <a href="https://github.com/Michaelsalaja/Detection-Lab/tree/main">Detection Lab</a> | VirusTotal, AbuseIPDB, Threat Feeds, Cisco Talos Intelligence |
 | Network Vulnerability Assessment, Scanning & Enumeration                     | <a href="https://github.com">VA & Pentest Lab</a> | Nmap, Nessus, Netcat |
 | Cybersecurity Risk Management Framework Design                               | <a href="https://github.com">Risk Management Lab</a> | NIST CSF, ISO 27001, Risk Matrix |
 | GNS3 Network Simulation & Enterprise Topology Configuration (Windows 11 VM)  | <a href="https://github.com">Network Engineering Lab</a> | GNS3, Cisco IOS, Wireshark |
@@ -67,7 +67,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 ## 📂 Projects
 
 ### 🔍 Detection Lab
-- <a href="https://github.com/Michaelsalaja/Detecion-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/Michaelsalaja/Detection-Lab/tree/main">Detection Lab</a>
 - Built and configured a full SIEM environment  
 - Log collection and analysis (Windows Event Logs, Sysmon)  
 - Threat detection using Splunk / Wazuh  
