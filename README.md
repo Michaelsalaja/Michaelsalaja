@@ -19,7 +19,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 | Cybersecurity Risk Management Framework Design                               | <a href="https://github.com">Risk Management Lab</a> | NIST CSF, ISO 27001, Risk Matrix |
 | GNS3 Network Simulation & Enterprise Topology Configuration (Windows 11 VM)  | <a href="https://github.com">Network Engineering Lab</a> | GNS3, Cisco IOS, Wireshark |
 | Digital Forensic Evidence Collection & Analysis                              | <a href="https://github.com">SOC Lab</a> | Autopsy, FTK Imager, Volatility |
-| Web Application Exploitation (SQLi, XSS, Command Injection) using DVWA       | <a href="https://github.com">Pentest Lab</a> | DVWA, Burp Suite, OWASP |
+| Web Application Exploitation (SQLi, XSS, Command Injection) using DVWA       | <a href="https://github.com">Pentest Web Lab</a> | DVWA, Burp Suite, OWASP |
 | Password Security Testing & Hash Cracking                                    | <a href="https://github.com">Pentest Lab</a> | Hydra |
 | Vulnerability Assessment & Penetration Testing (VAPT) Report                 | <a href="https://github.com">VAPT Lab</a> | Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework |
 | SSH Configuration & Secure Remote Access Setup (PuTTY & Key Management)      | <a href="https://github.com">Network Engineering & Cryptography Lab</a> | PuTTY, OpenSSH, RSA Keys |
