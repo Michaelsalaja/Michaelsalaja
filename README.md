@@ -18,7 +18,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 | Network Vulnerability Assessment, Scanning & Enumeration                     | <a href="https://github.com/Michaelsalaja/VA-and-Pentest-Lab/tree/main">VA and Pentest Lab</a>  | Nmap, Nessus, Netcat |
 | Cybersecurity Risk Management Framework Design                               | <a href="https://github.com">Risk Management Lab</a> | NIST CSF, ISO 27001, Risk Matrix |
 | GNS3 Network Simulation & Enterprise Topology Configuration (Windows 11 VM)  | <a href="https://github.com">Network Engineering Lab</a> | GNS3, Cisco IOS, Wireshark |
-| Digital Forensic Evidence Collection & Analysis                              | <a href="https://github.com">DFIR SOC Lab</a> | Autopsy, FTK Imager, Volatility |
+| Digital Incident Response & Forensic Evidence Collection & Analysis          | <a href="https://github.com/Michaelsalaja/DFIR-SOC-Lab/tree/main">DFIR SOC Lab</a>  | Autopsy, Volatility |
 | Web Application Exploitation (SQLi, XSS, Command Injection) using DVWA       | <a href="https://github.com/Michaelsalaja/Pentest-Web-Lab/tree/main">Pentest Web Lab</a> | DVWA, MSFvenom, Payload Injections|
 | Password Security Testing & Hash Cracking and Analysis                       | <a href="https://github.com/Michaelsalaja/Pentest-Bruteforce-Lab/tree/main">Pentest Bruteforce Lab</a> | Hydra |
 | Vulnerability Assessment & Penetration Testing (VAPT) Report                 | <a href="https://github.com">VAPT Lab</a> | Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework |
@@ -69,7 +69,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 ### 🔍 Detection Lab
 - <a href="https://github.com/Michaelsalaja/Detection-Lab/tree/main">Detection Lab</a>
 - Built and configured a full SIEM environment
-- DFIR SOC Lab  
+- <a href="https://github.com/Michaelsalaja/DFIR-SOC-Lab/tree/main">DFIR SOC Lab</a> (Autopsy, Volatility)
 - Log collection and analysis (Windows Event Logs, Sysmon)  
 - Threat detection using Splunk / Wazuh  
 - Incident investigation and alert triage  
