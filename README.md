@@ -89,7 +89,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 ### 🛡️ Pentesting Lab
 - <a href="https://github.com/Michaelsalaja/VA-and-Pentest-Lab/tree/main">VA and Pentest Lab</a> (Nmap, OpenVAS, Nessus)  
 - <a href="https://github.com/Michaelsalaja/Pentest-Web-Lab/tree/main">Pentest Web Lab</a> (SQLi, XSS, Command Injection)  
-- <a href="https://github.com/Michaelsalaja/Pentest-Bruteforce-Lab/tree/main">Pentest Bruteforce Lab</a>  (Hydra) 
-- <a href="https://github.com/Michaelsalaja/VAPT-Report-Capstone-Project/tree/main"> (Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework)
+- <a href="https://github.com/Michaelsalaja/Pentest-Bruteforce-Lab/tree/main">Pentest Bruteforce Lab</a> (Hydra) 
+- <a href="https://github.com/Michaelsalaja/VAPT-Report-Capstone-Project/tree/main">VAPT Report Capstone Project</a> (Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework)
 
     
