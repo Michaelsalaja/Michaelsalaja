@@ -21,7 +21,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 | Digital Incident Response & Forensic Evidence Collection & Analysis          | <a href="https://github.com/Michaelsalaja/DFIR-SOC-Lab/tree/main">DFIR SOC Lab</a>  | Autopsy, Volatility |
 | Web Application Exploitation (SQLi, XSS, Command Injection) using DVWA       | <a href="https://github.com/Michaelsalaja/Pentest-Web-Lab/tree/main">Pentest Web Lab</a> | DVWA, MSFvenom, Payload Injections|
 | Password Security Testing & Hash Cracking and Analysis                       | <a href="https://github.com/Michaelsalaja/Pentest-Bruteforce-Lab/tree/main">Pentest Bruteforce Lab</a> | Hydra |
-| Vulnerability Assessment & Penetration Testing (VAPT) Report                 | <a href="https://github.com">VAPT Report Lab</a> | Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework |
+| Vulnerability Assessment & Penetration Testing (VAPT) Report                 | <a href="https://github.com">VAPT Report Capstone Project</a> | Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework |
 | SSH Configuration & Secure Remote Access Setup (PuTTY & Key Management)      | <a href="https://github.com">Network Engineering & Cryptography Lab</a> | PuTTY, OpenSSH, RSA Keys |
 | Steganography & Data Hiding Techniques using OpenStego                       | <a href="https://github.com">Cryptography Lab</a> | OpenStego, Hash Verification |
 
