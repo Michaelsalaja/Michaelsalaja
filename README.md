@@ -23,7 +23,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 | Password Security Testing & Hash Cracking and Analysis                       | <a href="https://github.com/Michaelsalaja/Pentest-Bruteforce-Lab/tree/main">Pentest Bruteforce Lab</a> | Hydra |
 | Vulnerability Assessment & Penetration Testing (VAPT) Report                 | <a href="https://github.com/Michaelsalaja/VAPT-Report-Capstone-Project/tree/main">VAPT Report Capstone Project</a> | Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework |
 | SSH Configuration & Secure Remote Access Setup (PuTTY & Key Management)      | <a href="https://github.com">Network Engineering & Cryptography Lab</a> | PuTTY, OpenSSH, RSA Keys |
-| Steganography & Data Hiding Techniques using OpenStego                       | <a href="https://github.com">Cryptography Lab</a> | OpenStego, Hash Verification |
+| Steganography & Data Hiding Techniques using OpenStego                       | <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab | OpenStego, Hash Verification |
 
 ##Tools
 
@@ -80,16 +80,18 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 - Basic scripting for security automation  
 - Incident response process simulation  
 
-### 🌐 Network Simulation Lab
+### 🌐 Network Simulation Lab & PKI
 - Designed enterprise-style network topologies  
 - Configured routers and switches (GNS3 / Cisco Packet Tracer)  
 - Traffic analysis using Wireshark  
-- VLANs, routing, and firewall rule configuration  
+- VLANs, routing, and firewall rule configuration
+- <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab (Cryptography Lab)
 
 ### 🛡️ Pentesting Lab
 - <a href="https://github.com/Michaelsalaja/VA-and-Pentest-Lab/tree/main">VA and Pentest Lab</a> (Nmap, OpenVAS, Nessus)  
 - <a href="https://github.com/Michaelsalaja/Pentest-Web-Lab/tree/main">Pentest Web Lab</a> (SQLi, XSS, Command Injection)  
 - <a href="https://github.com/Michaelsalaja/Pentest-Bruteforce-Lab/tree/main">Pentest Bruteforce Lab</a> (Hydra) 
 - <a href="https://github.com/Michaelsalaja/VAPT-Report-Capstone-Project/tree/main">VAPT Report Capstone Project</a> (Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework)
+
 
     
