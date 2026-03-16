@@ -66,7 +66,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 
 ## 📂 Projects
 
-### 🔍 Detection Lab
+### 🔍 SOC Detection Lab
 - <a href="https://github.com/Michaelsalaja/Detection-Lab/tree/main">Detection Lab</a>
 - Built and configured a full SIEM environment
 - <a href="https://github.com/Michaelsalaja/DFIR-SOC-Lab/tree/main">DFIR SOC Lab</a> (Autopsy, Volatility)
