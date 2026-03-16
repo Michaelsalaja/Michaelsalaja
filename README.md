@@ -22,7 +22,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 | Web Application Exploitation (SQLi, XSS, Command Injection) using DVWA       | <a href="https://github.com/Michaelsalaja/Pentest-Web-Lab/tree/main">Pentest Web Lab</a> | DVWA, MSFvenom, Payload Injections|
 | Password Security Testing & Hash Cracking and Analysis                       | <a href="https://github.com/Michaelsalaja/Pentest-Bruteforce-Lab/tree/main">Pentest Bruteforce Lab</a> | Hydra |
 | Vulnerability Assessment & Penetration Testing (VAPT) Report                 | <a href="https://github.com/Michaelsalaja/VAPT-Report-Capstone-Project/tree/main">VAPT Report Capstone Project</a> | Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework |
-| SSH Configuration & Secure Remote Access Setup (PuTTY & Key Management)      | <a href="https://github.com">Network Engineering & Cryptography Lab</a> | PuTTY, OpenSSH, RSA Keys |
+| SSH Configuration & Secure Remote Access Setup (PuTTY & Key Management)      | <a href="https://github.com/Michaelsalaja/Network-Engineering-and-Cryptography-Lab/tree/main">Network Engineering and Cryptography Lab</a> | PuTTY, OpenSSH, RSA Keys |
 | Steganography & Data Hiding Techniques using OpenStego                       | <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab | OpenStego, Hash Verification |
 
 ##Tools
@@ -82,7 +82,8 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 
 ### 🌐 Network Simulation Lab & PKI
 - <a href="https://github.com/Michaelsalaja/Network-Engineering-Lab/tree/main">Network Engineering Lab</a> (GNS3, Cisco IOS, Wireshark)
-- Designed enterprise-style network topologies  
+- <a href="https://github.com/Michaelsalaja/Network-Engineering-and-Cryptography-Lab/tree/main">Network Engineering and Cryptography Lab</a> (PuTTY, OpenSSH, RSA Keys)
+- Designing a enterprise-style network topologies  
 - Configured routers and switches (GNS3 / Cisco Packet Tracer)  
 - Traffic analysis using Wireshark  
 - VLANs, routing, and firewall rule configuration
