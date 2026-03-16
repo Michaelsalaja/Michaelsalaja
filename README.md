@@ -85,7 +85,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 - Configured routers and switches (GNS3 / Cisco Packet Tracer)  
 - Traffic analysis using Wireshark  
 - VLANs, routing, and firewall rule configuration
-- <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab (Cryptography Lab)
+- <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab (OpenStego, Hash Verification )
 
 ### 🛡️ Pentesting Lab
 - <a href="https://github.com/Michaelsalaja/VA-and-Pentest-Lab/tree/main">VA and Pentest Lab</a> (Nmap, OpenVAS, Nessus)  
