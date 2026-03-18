@@ -13,7 +13,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 
 | Project Title                                                                 | Lab / Repository | Tools & Technologies Used |
 |-------------------------------------------------------------------------------|------------------|---------------------------|
-| SIEM Implementation & Advanced Log Analysis                                  | <a href="https://github.com">Detection Lab</a> | Splunk, Windows Event Logs, Sysmon |
+| Advanced Log Analysis & Incident Investigation (SIEM)                           | <a href="https://github.com">SOC-Incident-Investigation-SIEM-Lab</a> | Splunk, Windows Event Logs, CyberChef |
 | Indicators of Compromise (IoC) Detection & Threat Intelligence Analysis      | <a href="https://github.com/Michaelsalaja/Detection-Lab/tree/main">Detection Lab</a> | VirusTotal, AbuseIPDB, Threat Feeds, Cisco Talos Intelligence |
 | Network Vulnerability Assessment, Scanning & Enumeration                     | <a href="https://github.com/Michaelsalaja/VA-and-Pentest-Lab/tree/main">VA and Pentest Lab</a>  | Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework |
 | Cybersecurity Risk Management Framework Design                               | <a href="https://github.com/Michaelsalaja/Risk-Management-Lab/tree/main">Risk Management Lab</a> | NIST CSF, ISO 27001, Risk Matrix |
