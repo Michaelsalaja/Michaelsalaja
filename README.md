@@ -49,6 +49,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 ### Identity & Access Management (IAM)
 <div>
     <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Okta-IAM-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 
