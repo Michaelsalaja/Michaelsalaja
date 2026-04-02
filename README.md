@@ -24,6 +24,7 @@ My journey in Foreign policy Security and working as a Data Security Manager has
 | Vulnerability Assessment & Penetration Testing (VAPT) Report                 | <a href="https://github.com/Michaelsalaja/VAPT-Report-Capstone-Project/tree/main">VAPT Report Capstone Project</a> | Nmap, Netdiscover, Metasploit, OpenVAS/Greenbone, Reporting Framework |
 | SSH Configuration & Secure Remote Access Setup (PuTTY & Key Management)      | <a href="https://github.com/Michaelsalaja/Network-Engineering-and-Cryptography-Lab/tree/main">Network Engineering and Cryptography Lab</a> | PuTTY, OpenSSH, RSA Keys |
 | Steganography & Data Hiding Techniques using OpenStego                       | <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab | OpenStego, Hash Verification |
+| Configuring Standard Access Control Lists (ACL)                              | <a href="https://github.com/Michaelsalaja/Network-Security-Lab/tree/main">Network Security Lab | PuTTY, OpenSSH |
 
 ##Tools
 
