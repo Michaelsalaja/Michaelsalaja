@@ -7,7 +7,7 @@ I am a postgraduate and a Cybersecurity Analyst with a profound interest in Inci
 
 ## Objective
 
-My journey in Foreign policy Security and working as a Data Security Manager has led me to develop a passion for cybersecurity. Currently, I am eager to transition into joining a Security Operations Center (SOC) as a Tier 1 Analyst, Cybersecurity Analyst, or Network Security Engineer and work my way up to become a Chief Information Security Officer (CISO). Cybersecurity is not a DESTINATION, it's a JOURNEY that you have to continuously embark on.
+My journey in Foreign policy Security % Nuclear Weapons and working as a Data Security Manager has led me to develop a passion for cybersecurity. Currently, I am eager to transition into joining a Security Operations Center (SOC) as a Tier 1 Analyst, Cybersecurity Analyst, or Network Security Engineer and work my way up to become a Chief Information Security Officer (CISO). Cybersecurity is not a DESTINATION, it's a JOURNEY that you have to continuously embark on.
 
 ## Skills 
 
