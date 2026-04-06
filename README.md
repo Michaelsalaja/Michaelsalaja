@@ -71,7 +71,8 @@ My journey in Foreign policy Security & Nuclear Weapons and working as a Data Se
 
 ### 🔍 SOC Detection Lab
 - Built and configured a full SIEM environment
-- <a href="https://github.com/Michaelsalaja/SOC-Incident-Investigation-SIEM-Lab/tree/main">SOC Incident Investigation SIEM Lab</a> (Splunk, Windows Event Logs, CyberChef) 
+- <a href="https://github.com/Michaelsalaja/SOC-Incident-Investigation-SIEM-Lab/tree/main">SOC Incident Investigation SIEM Lab</a> (Splunk, Windows Event Logs, CyberChef)
+- href="https://github.com/Michaelsalaja/SOC-BlackSun-Ransomeware-Incident-Investigation-Lab/tree/main"> (Splunk, Windows Event Logs, CyberChef, Base64)
 - <a href="https://github.com/Michaelsalaja/Detection-Lab/tree/main">Detection Lab</a> (VirusTotal, AbuseIPDB, Threat Feeds, Cisco Talos Intelligence)
 - <a href="https://github.com/Michaelsalaja/DFIR-SOC-Lab/tree/main">DFIR SOC Lab</a> (Autopsy, Volatility)
 - Log collection and analysis (Windows Event Logs, Sysmon)  
