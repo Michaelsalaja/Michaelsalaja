@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Salaja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelsalaja/)
 
-I am a postgraduate and a Cybersecurity Analyst with a profound interest in Incident detection and Response and a dedication to solving complex problems. I love solving problems more than I love myself. These hands-on-labs help build skills that will translate into real world SOC and Network Engineering
+I am a postgraduate and a Cybersecurity Analyst with a profound interest in Incident detection and Response and a dedication to solving complex problems. I love solving problems more than I love myself. These hands-on-labs help build skills that will translate into real world SOC and Network Engineering.
 
 ## Objective
 
