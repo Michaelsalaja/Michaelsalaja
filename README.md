@@ -88,10 +88,10 @@ My journey in Foreign policy Security & Nuclear Weapons and working as a Data Se
 - Incident response process simulation  
 
 ### 🌐 Network Simulation Lab & PKI
+- <a href="https://github.com/Michaelsalaja/Network-Cisco-Modeling-Simulation-Lab/tree/main">Network Cisco Modeling Simulation Lab</a> (Cisco Packet Tracer)
 - <a href="https://github.com/Michaelsalaja/Network-Engineering-Lab/tree/main">Network Engineering Lab</a> (GNS3, Cisco IOS, Wireshark)
 - <a href="https://github.com/Michaelsalaja/Network-Engineering-and-Cryptography-Lab/tree/main">Network Engineering and Cryptography Lab</a> (PuTTY, OpenSSH, RSA Keys)
 - <a href="https://github.com/Michaelsalaja/Network-Security-Lab/tree/main">Network Security Lab</a> ( PuTTY, OpenSSH)
-- Designing a enterprise-style network topologies  
 - Configured routers and switches (GNS3 / Cisco Packet Tracer)  
 - Traffic analysis using Wireshark  
 - VLANs, routing, and firewall rule configuration
