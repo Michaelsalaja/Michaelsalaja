@@ -28,7 +28,7 @@ My journey in Foreign policy Security & Nuclear Weapons and working as a Data Se
 | SSH Configuration & Secure Remote Access Setup (PuTTY & Key Management)      | <a href="https://github.com/Michaelsalaja/Network-Engineering-and-Cryptography-Lab/tree/main">Network Engineering and Cryptography Lab</a> | PuTTY, OpenSSH, RSA Keys |
 | Steganography & Data Hiding Techniques using OpenStego                       | <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab</a> | OpenStego, Hash Verification |
 | Configuring a Standard Access Control List (ACL)                             | <a href="https://github.com/Michaelsalaja/Network-Security-Lab/tree/main">Network Security Lab</a> | PuTTY, OpenSSH |
-| Microsoft Entra ID Modern SOC Investigaion with (Splunk)                     | <a href="https://github.com/Michaelsalaja/Cloud-Based-IAM-Investigation-Lab/tree/main">Cloud Based IAM Investigation Lab</a> | Microsoft Entra ID, Splunk|
+| Microsoft Entra ID Modern SOC Investigaion with (Splunk)                     | <a href="https://github.com/Michaelsalaja/Cloud--Based-IAM-Investigation-Lab/tree/main">Cloud-Based IAM Investigation Lab</a> | Microsoft Entra ID, Splunk|
 
 ##Tools
 
