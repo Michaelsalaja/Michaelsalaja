@@ -98,6 +98,10 @@ My journey in Foreign policy Security & Nuclear Weapons and working as a Data Se
 - VLANs, routing, and firewall rule configuration
 - <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab (OpenStego, Hash Verification)
 
+# ☁️ Cloud & IAM Lab
+- Investgated Main threats and defenses in Entra ID Environment (Microsoft Entra ID)  
+- Launched modern SOC investigation exploring Microsof 365 log sources
+
 ### 🛡️ Pentesting Lab
 - <a href="https://github.com/Michaelsalaja/VA-and-Pentest-Lab/tree/main">VA and Pentest Lab</a> (Nmap, OpenVAS, Nessus)  
 - <a href="https://github.com/Michaelsalaja/Pentest-Web-Lab/tree/main">Pentest Web Lab</a> (SQLi, XSS, Command Injection)  
