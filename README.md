@@ -31,7 +31,7 @@ My journey in Foreign policy Security & Nuclear Weapons and working as a Data Se
 | Microsoft Entra ID Modern SOC Investigation with (Splunk)                    | <a href="https://github.com/Michaelsalaja/Cloud--Based-IAM-Investigation-Lab/tree/main">Cloud-Based IAM Investigation Lab</a> | Microsoft Entra ID, Splunk |
 | Kusto Query Language & Microsoft Sentinel Log Analytics Workspace            | <a href="https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/tree/main">KQL and MS Sentinel SOC Lab</a> | Microsoft Sentinel, Kusto Query Langauge (KQL) |
 
-##Tools
+## Tools
 
 ### Network
 <div>
@@ -47,7 +47,7 @@ My journey in Foreign policy Security & Nuclear Weapons and working as a Data Se
      <img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge&logo=wazuh&logoColor=white" />
      <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-     ### Endpoint Detection & Response (EDR)
+     ## Endpoint Detection & Response (EDR)
 <div>
     <img src="https://img.shields.io/badge/Endpoint%20Detection%20%26%20Response-4B0082?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 
