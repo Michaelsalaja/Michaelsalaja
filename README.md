@@ -47,7 +47,7 @@ My journey in Foreign policy Security & Nuclear Weapons and working as a Data Se
      <img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge&logo=wazuh&logoColor=white" />
      <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-     # Endpoint Detection & Response (EDR)
+      Endpoint Detection & Response (EDR)
 <div>
     <img src="https://img.shields.io/badge/Endpoint%20Detection%20%26%20Response-4B0082?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 
