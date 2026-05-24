@@ -101,8 +101,8 @@ My journey in Foreign policy Security & Nuclear Weapons and working as a Data Se
 - <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab (OpenStego, Hash Verification)
 
 # ☁️ Microsoft Security Product & Cloud & IAM Lab
+- <a href="https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/tree/main">KQL and MS Sentinel SOC Lab</a> (Microsoft Sentinel, Kusto Query Langauge (KQL))
 - <a href="https://github.com/Michaelsalaja/Cloud--Based-IAM-Investigation-Lab/tree/main">Cloud-Based IAM Investigation Lab</a> (Microsoft Entra ID, Splunk)
-- Kusto Query Language & Microsoft Sentinel Log Analytics Workspace
 - Launched modern SOC investigation exploring Microsof 365 log sources
 
 ### 🛡️ Pentesting Lab
