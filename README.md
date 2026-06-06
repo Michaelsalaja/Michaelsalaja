@@ -7,7 +7,7 @@ I am a postgraduate and a Cybersecurity Analyst with a profound interest in Netw
 
 ## Objective
 
-My journey in Foreign policy Security & Nuclear Weapons and working as a Data Security Manager has led me to develop a passion for Cybersecurity. Currently, I am eager to transition into joining a Security Operations Center (SOC) as a Tier 1 & 2 Analyst, Cybersecurity Analyst as well as a Network Security Engineer. Cybersecurity is not a DESTINATION, it's a JOURNEY that you have to continuously embark on.
+My journey in Foreign policy security & nuclear Weapons and working as IT-Support has led me to develop a passion for Cybersecurity. Currently, I am eager to transition into joining a Security Operations Center (SOC) as a Tier 1 & 2 Analyst, Cybersecurity Analyst as well as a Network Security Engineer. Cybersecurity is not a DESTINATION, it's a JOURNEY that you have to continuously embark on.
 
 ## Skills 
 
