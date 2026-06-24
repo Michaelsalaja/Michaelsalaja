@@ -3,11 +3,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Salaja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelsalaja/)
 
-I am a postgraduate and a Cybersecurity Analyst with a profound interest in Network security, and Incident detection and Response. I have a fervent dedication to solving complex problems because I love solving problems more than I love myself. These hands-on-labs help build skills that will translate into real world IT Support, SOC, IT Security, and Network Administration & Engineering.
+I am a postgraduate and a Cybersecurity Analyst with a profound interest in Network security, and Incident detection and Response. I have a fervent dedication to solving complex problems because I love solving problems more than I love myself. These hands-on-labs help build skills that will translate into real world IT Support, SOC, IT Security, Network Administration & Engineering, and GRC.
 
 ## Objective
 
-My journey in Foreign policy security & nuclear Weapons and working as IT-Support has led me to develop a passion for Cybersecurity. Currently, I am eager to transition into joining a Security Operations Center (SOC) as a Tier 1 & 2 Analyst, Cybersecurity Analyst as well as a Network Security Engineer. Cybersecurity is not a DESTINATION, it's a JOURNEY that you have to continuously embark on.
+My journey in Foreign policy security & nuclear Weapons and working as IT-Support has led me to develop a passion for Cybersecurity. Currently, I am eager to transition into joining a Security Operations Center (SOC) as a Tier 1 & 2 Analyst, Cybersecurity Analyst, Network Security Engineer as well as a Information Security Risk Specialist. Cybersecurity is not a DESTINATION, it's a JOURNEY that you have to continuously embark on.
 
 ## Skills 
 
