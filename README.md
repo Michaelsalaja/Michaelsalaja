@@ -77,6 +77,12 @@ My journey in Foreign policy security & nuclear Weapons and working as IT-Suppor
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
     <img src="https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
 
+<h3>Programming Languages & Querying</h3>
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Kusto%20Query%20Language-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
 ## 📂 Projects
 
 ### 🔍 SOC Detection Lab
