@@ -119,6 +119,7 @@ My journey in Foreign policy security & nuclear Weapons and working as IT-Suppor
 # ☁️ Microsoft Security Product & Cloud & IAM Lab
 - <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab/tree/main">SecOps Engineering Lab</a> (Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure)
 - <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-2/tree/main">SecOps Engineering Lab 2</a> (Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure)
+- <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-3/tree/main">SecOps Engineering Lab 3</a> (Microsoft Sentinel, Microsoft Defender XDR, Common Event Format, Azure Monitor Agent, Syslog)
 - <a href="https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/tree/main">KQL and MS Sentinel SOC Lab</a> (Microsoft Sentinel, Kusto Query Langauge (KQL))
 - <a href="https://github.com/Michaelsalaja/Cloud--Based-IAM-Investigation-Lab/tree/main">Cloud-Based IAM Investigation Lab</a> (Microsoft Entra ID, Splunk)
 - Launched modern SOC investigation exploring Microsof 365 log sources
