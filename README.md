@@ -15,6 +15,7 @@ My journey in Foreign policy security & nuclear Weapons and working as IT-Suppor
 |-------------------------------------------------------------------------------|------------------|---------------------------|
 |Connecting Windows VMs to Microsoft Sentinel using distinct Data Connectors    | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-2/tree/main">SecOps Engineering Lab 2</a> | Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure |
 |Connecting Data to Microsoft Sentinel using Data Connectors                    | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab/tree/main">SecOps Engineering Lab</a> | Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure |
+| Kusto Query Language & Microsoft Sentinel Log Analytics Workspace             | <a href="https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/tree/main">KQL and MS Sentinel SOC Lab</a> | Microsoft Sentinel, Kusto Query Langauge (KQL) |
 | Advanced Log Analysis & Incident Investigation (SIEM)                         | <a href="https://github.com/Michaelsalaja/SOC-Incident-Investigation-SIEM-Lab/tree/main">SOC Incident Investigation SIEM Lab</a> | Splunk, Windows Event Logs, CyberChef | Base64 |
 | Advanced Ransomeware Incident Investigation with Splunk (SIEM)                | <a href="https://github.com/Michaelsalaja/SOC-BlackSun-Ransomeware-Incident-Investigation-Lab/tree/main">SOC BlackSun Ransomeware Incident Investigation Lab</a> | Splunk, Windows Event Logs, CyberChef | Base64
 | Indicators of Compromise (IoC) Detection & Threat Intelligence Analysis       | <a href="https://github.com/Michaelsalaja/Detection-Lab/tree/main">Detection Lab</a> | VirusTotal, AbuseIPDB, Threat Feeds, Cisco Talos Intelligence |
@@ -31,7 +32,7 @@ My journey in Foreign policy security & nuclear Weapons and working as IT-Suppor
 | Steganography & Data Hiding Techniques using OpenStego                        | <a href="https://github.com/Michaelsalaja/Cryptography-Lab/tree/main">Cryptography Lab</a> | OpenStego, Hash Verification |
 | Configuring a Standard Access Control List (ACL)                              | <a href="https://github.com/Michaelsalaja/Network-Security-Lab/tree/main">Network Security Lab</a> | PuTTY, OpenSSH |
 | Microsoft Entra ID Modern SOC Investigation with (Splunk)                     | <a href="https://github.com/Michaelsalaja/Cloud--Based-IAM-Investigation-Lab/tree/main">Cloud-Based IAM Investigation Lab</a> | Microsoft Entra ID, Splunk |
-| Kusto Query Language & Microsoft Sentinel Log Analytics Workspace             | <a href="https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/tree/main">KQL and MS Sentinel SOC Lab</a> | Microsoft Sentinel, Kusto Query Langauge (KQL) |
+
 
 ## Tools
 
