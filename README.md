@@ -13,7 +13,7 @@ My journey in Foreign policy security & nuclear Weapons and working as IT-Suppor
 
 | Project Title                                                                 | Lab / Repository | Tools & Technologies Used |
 |-------------------------------------------------------------------------------|------------------|---------------------------|
-| Connecting Linux Hosts to Microsoft Sentinel using Data Connectors            | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-3/tree/main">SecOps Engineering Lab 3</a> | Microsoft Sentinel, Microsoft Defender XDR, Common Event Format, Azure Monitor Agent, Syslog |
+| Connecting Linux Hosts to Microsoft Sentinel using Data Connectors            | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-3/tree/main">SecOps Engineering Lab 3</a> | Microsoft Sentinel, Microsoft Defender XDR, Common Event Format, Azure Monitor Agent, Syslog, PowerShell |
 | Connecting Windows VMs to Microsoft Sentinel using distinct Data Connectors   | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-2/tree/main">SecOps Engineering Lab 2</a> | Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure |
 | Connecting Log Data to Microsoft Sentinel using Data Connectors               | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab/tree/main">SecOps Engineering Lab</a> | Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure |
 | Kusto Query Language & Microsoft Sentinel Log Analytics Workspace             | <a href="https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/tree/main">KQL and MS Sentinel SOC Lab</a> | Microsoft Sentinel, Kusto Query Langauge (KQL) |
@@ -119,7 +119,7 @@ My journey in Foreign policy security & nuclear Weapons and working as IT-Suppor
 # ☁️ Microsoft Security Product & Cloud & IAM Lab
 - <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab/tree/main">SecOps Engineering Lab</a> (Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure)
 - <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-2/tree/main">SecOps Engineering Lab 2</a> (Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure)
-- <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-3/tree/main">SecOps Engineering Lab 3</a> (Microsoft Sentinel, Microsoft Defender XDR, Common Event Format, Azure Monitor Agent, Syslog)
+- <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-3/tree/main">SecOps Engineering Lab 3</a> (Microsoft Sentinel, Microsoft Defender XDR, Common Event Format, Azure Monitor Agent, Syslog, PowerShell)
 - <a href="https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/tree/main">KQL and MS Sentinel SOC Lab</a> (Microsoft Sentinel, Kusto Query Langauge (KQL))
 - <a href="https://github.com/Michaelsalaja/Cloud--Based-IAM-Investigation-Lab/tree/main">Cloud-Based IAM Investigation Lab</a> (Microsoft Entra ID, Splunk)
 - Launched modern SOC investigation exploring Microsof 365 log sources
