@@ -13,6 +13,7 @@ My journey in Foreign policy security & nuclear Weapons and working as IT-Suppor
 
 | Project Title                                                                 | Lab / Repository | Tools & Technologies Used |
 |-------------------------------------------------------------------------------|------------------|---------------------------|
+| Administering a Splunk Server Enterprise and Ingesting Logs with Universal Forwarder   | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-4/tree/main">SecOps Engineering Lab 4</a> | Splunk Server, Universal Forwarder, Splunk Administrative CLI |
 | Connecting Linux Hosts to Microsoft Sentinel using Data Connectors            | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-3/tree/main">SecOps Engineering Lab 3</a> | Microsoft Sentinel, Microsoft Defender XDR, Common Event Format, Azure Monitor Agent, Syslog, PowerShell |
 | Connecting Windows VMs to Microsoft Sentinel using distinct Data Connectors   | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-2/tree/main">SecOps Engineering Lab 2</a> | Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure |
 | Connecting Log Data to Microsoft Sentinel using Data Connectors               | <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab/tree/main">SecOps Engineering Lab</a> | Microsoft Sentinel, Microsoft Defender XDR, Microsoft Azure |
@@ -90,7 +91,7 @@ My journey in Foreign policy security & nuclear Weapons and working as IT-Suppor
 ## 📂 Projects
 
 ### 🔍 SOC Detection Lab
-- Built and configured a full SIEM environment
+- <a href="https://github.com/Michaelsalaja/SecOps-Engineering-Lab-4/tree/main">SecOps Engineering Lab 4</a> (Splunk Server, Universal Forwarder, Splunk Administrative CLI)
 - <a href="https://github.com/Michaelsalaja/SOC-Incident-Investigation-SIEM-Lab/tree/main">SOC Incident Investigation SIEM Lab</a> (Splunk, Windows Event Logs, CyberChef)
 - <a href="https://github.com/Michaelsalaja/SOC-BlackSun-Ransomeware-Incident-Investigation-Lab/tree/main">SOC BlackSun Ransomeware Incident Investigation Lab</a> (Splunk, Windows Event Logs, CyberChef, Base64)
 - <a href="https://github.com/Michaelsalaja/Detection-Lab/tree/main">Detection Lab</a> (VirusTotal, AbuseIPDB, Threat Feeds, Cisco Talos Intelligence)
